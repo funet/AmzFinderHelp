@@ -1,0 +1,39 @@
+{
+    "docs": [
+        {
+            "location": "/", 
+            "text": "\u5e2e\u52a9\u4e2d\u5fc3\n\n\nHi, \u6b22\u8fce\u4f60\u4f7f\u7528\u5e2e\u52a9\u4e2d\u5fc3\n\n\n\u8d26\u53f7\u76f8\u5173\n\n\n\n\nmkdocs new [dir-name]\n - Create a new project.\n\n\nmkdocs serve\n - Start the live-reloading docs server.\n\n\nmkdocs build\n - Build the documentation site.\n\n\nmkdocs help\n - Print this help message.\n\n\n\n\n\u5e97\u94fa\u76f8\u5173\n\n\nmkdocs.yml    # The configuration file.\ndocs/\n    index.md  # The documentation homepage.\n    ...       # Other markdown pages, images and other files.\n\n\n\n\u8bc4\u4ef7\u76f8\u5173\n\n\nmkdocs.yml    # The configuration file.\ndocs/\n    index.md  # The documentation homepage.\n    ...       # Other markdown pages, images and other files.\n\n\n\n\u5145\u503c\u76f8\u5173\n\n\nmkdocs.yml    # The configuration file.\ndocs/\n    index.md  # The documentation homepage.\n    ...       # Other markdown pages, images and other files.\n\n\n\n\u5e38\u89c1\u95ee\u9898\n\n\nmkdocs.yml    # The configuration file.\ndocs/\n    index.md  # The documentation homepage.\n    ...       # Other markdown pages, images and other files.", 
+            "title": "Home"
+        }, 
+        {
+            "location": "/#_1", 
+            "text": "Hi, \u6b22\u8fce\u4f60\u4f7f\u7528\u5e2e\u52a9\u4e2d\u5fc3", 
+            "title": "\u5e2e\u52a9\u4e2d\u5fc3"
+        }, 
+        {
+            "location": "/#_2", 
+            "text": "mkdocs new [dir-name]  - Create a new project.  mkdocs serve  - Start the live-reloading docs server.  mkdocs build  - Build the documentation site.  mkdocs help  - Print this help message.", 
+            "title": "\u8d26\u53f7\u76f8\u5173"
+        }, 
+        {
+            "location": "/#_3", 
+            "text": "mkdocs.yml    # The configuration file.\ndocs/\n    index.md  # The documentation homepage.\n    ...       # Other markdown pages, images and other files.", 
+            "title": "\u5e97\u94fa\u76f8\u5173"
+        }, 
+        {
+            "location": "/#_4", 
+            "text": "mkdocs.yml    # The configuration file.\ndocs/\n    index.md  # The documentation homepage.\n    ...       # Other markdown pages, images and other files.", 
+            "title": "\u8bc4\u4ef7\u76f8\u5173"
+        }, 
+        {
+            "location": "/#_5", 
+            "text": "mkdocs.yml    # The configuration file.\ndocs/\n    index.md  # The documentation homepage.\n    ...       # Other markdown pages, images and other files.", 
+            "title": "\u5145\u503c\u76f8\u5173"
+        }, 
+        {
+            "location": "/#_6", 
+            "text": "mkdocs.yml    # The configuration file.\ndocs/\n    index.md  # The documentation homepage.\n    ...       # Other markdown pages, images and other files.", 
+            "title": "\u5e38\u89c1\u95ee\u9898"
+        }
+    ]
+}
