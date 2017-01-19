@@ -4,7 +4,15 @@
     
     <url>
      <loc>/</loc>
-     <lastmod>2017-01-05</lastmod>
+     <lastmod>2017-01-19</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/start/</loc>
+     <lastmod>2017-01-19</lastmod>
      <changefreq>daily</changefreq>
     </url>
     
