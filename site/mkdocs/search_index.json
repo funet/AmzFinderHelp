@@ -67,13 +67,28 @@
         }, 
         {
             "location": "/account/", 
-            "text": "\u8d26\u53f7\u76f8\u5173", 
+            "text": "\u6ce8\u518c\u8d26\u53f7\n\n\n\u8d26\u53f7\u767b\u5f55\n\n\n\u627e\u56de\u5bc6\u7801\n\n\n\u8d26\u53f7\u5145\u503c", 
             "title": "\u8d26\u53f7\u76f8\u5173"
         }, 
         {
             "location": "/account/#_1", 
             "text": "", 
-            "title": "\u8d26\u53f7\u76f8\u5173"
+            "title": "\u6ce8\u518c\u8d26\u53f7"
+        }, 
+        {
+            "location": "/account/#_2", 
+            "text": "", 
+            "title": "\u8d26\u53f7\u767b\u5f55"
+        }, 
+        {
+            "location": "/account/#_3", 
+            "text": "", 
+            "title": "\u627e\u56de\u5bc6\u7801"
+        }, 
+        {
+            "location": "/account/#_4", 
+            "text": "", 
+            "title": "\u8d26\u53f7\u5145\u503c"
         }, 
         {
             "location": "/other/", 

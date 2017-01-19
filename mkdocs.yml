@@ -1,5 +1,6 @@
 site_name: AmzFinder
 theme: readthedocs
+repo_url: https://github.com/weelion/AmzFinderHelp
 extra_css:
     - css/extra.css
 
