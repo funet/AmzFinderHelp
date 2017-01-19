@@ -1,10 +1,9 @@
 
 ![流程](http://upload-images.jianshu.io/upload_images/1331329-f305a3e713bd61fe.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
-
 #### 注册账号
 
-打开AmzFinder注册账号链接: [http://amzfinder.com/signup](http://amzfinder.com/signup)
+打开 AmzFinder 注册账号链接: [http://amzfinder.com/signup](http://amzfinder.com/signup)
 
 
 ![注册](http://upload-images.jianshu.io/upload_images/1331329-db956986b35c5ed8.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)

@@ -4,3 +4,11 @@
 .section p img {
 	text-align: center;;
 }
+
+.wy-breadcrumbs li > a, p > a, footer > a {
+	color: #1ab394;
+}
+
+.wy-breadcrumbs li > a:visited, p > a:visited, footer > a:visited {
+    color: #1ab394;
+}
