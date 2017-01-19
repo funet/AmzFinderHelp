@@ -7,7 +7,7 @@ extra_css:
 pages:
   - 帮助中心: index.md
   - 开始使用: start.md
-  - 评论管理: review.md
+  - 评价管理: review.md
   - 人工匹配: review/match.md
   - 店铺管理: store.md
   - 账号相关: account.md

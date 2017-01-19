@@ -2,13 +2,22 @@
 	background-color: #1ab394;
 }
 .section p img {
-	text-align: center;;
+	box-shadow: 5px 5px 10px #888888;
 }
 
-.wy-breadcrumbs li > a, p > a, footer > a {
+.wy-breadcrumbs li > a, p > a, footer > a,.section ul li a {
 	color: #1ab394;
 }
 
-.wy-breadcrumbs li > a:visited, p > a:visited, footer > a:visited {
+.wy-breadcrumbs li > a:visited, p > a:visited, footer > a:visited,.section ul li a:visited {
     color: #1ab394;
 }
+
+.section ul li {
+	margin-bottom: 25px;
+}
+
+.wy-nav-content {
+    max-width: none;
+}
+
