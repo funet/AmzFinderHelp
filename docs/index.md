@@ -4,7 +4,7 @@ Hi, 欢迎你使用 AmzFinder 帮助中心。
 
  - [AmzFinder](http://amzfinder.com)
     
-    AmzFinder 简洁，快速，高效，您的贴心评价小助理。
+    AmzFinder 是一款五星级亚马逊卖家工具，专业解决卖家移除差评的繁琐问题。全自动监控 Amazon 网站上的 review（评价）记录，第一时间获得差评数据并将 BuyerID 与 OrderID 智能化对应汇总，方便、高效。
 
  - [开始使用](start.md)
 
