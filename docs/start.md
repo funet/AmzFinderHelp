@@ -62,7 +62,7 @@
 
 ![Install](img/install2.png)
 
-开始解压环境包
+开始解压环境包，待解压完成后，点击 “下一步” 按钮
 
 ![Install](img/install3.png)
 
@@ -100,7 +100,7 @@
 
 ![Run](img/run2.png)
 
-保存好店铺信息点击手动运行按钮，将开始上报 review 信息。
+保存好店铺信息点击 "手动运行" 按钮，将开始上报 review 信息。
 
 ![Run](img/run3.png)
 
