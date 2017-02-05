@@ -40,9 +40,68 @@
 
 #### 安装客户端
 
-待完善
+登录后台，在导航栏下载客户端
 
+![下载客户端](img/download.png)
 
+下载完成后，进入到下载目录，双击 AmzFinder.zip 解开压缩包。
 
+![AmzFinder.zip](img/download1.png)
+
+双击运行压缩包里面的 AmzFinder.exe 安装程序
+
+![AmzFinder.exe](img/download2.png)
+
+安装环境监测，如果您之前已经安装过了必要的环境，安装向导会自动跳到安装 AmzFinder 界面
+
+![Install](img/install1.png)
+
+勾选 .NET Framework 4.0 点击 “下一步” 按钮
+
+![Install](img/install2.png)
+
+开始解压环境包
+
+![Install](img/install3.png)
+
+勾选 "我已阅读并接受条款(A)" 点击 “安装” 按钮
+
+![Install](img/install4.png)
+
+开始安装软件运行环境，需要稍候一段时间。
+
+![Install](img/install5.png)
+
+最后安装环境完成
+
+![Install](img/install6.png)
+
+安装 AmzFinder 界面，点击 “下一步” 按钮
+
+![Install](img/install7.png)
+
+点击 “Install Now" 开始安装，等待安装进度条完成
+
+![Install](img/install9.png)
+
+点击 “启动 Am在Finder” 启动客户端
+
+![Install](img/install10.png)
+
+同时桌面将会产生一个 AmzFinder 图标![Install](img/soft_icon.png)，下次可以在桌面直接运行
+
+软件启动后，点击下图齿轮按钮，添加店铺信息
+
+![Run](img/run1.png)
+
+选择 Amazon 区域，勾选亚马逊站点，输入 Amazon 账号 和 密码，点击 “保存” 按钮，如果本机可以登录多个店铺，重复这个步骤
+
+![Run](img/run2.png)
+
+保存好店铺信息点击手动运行按钮，将开始上报 review 信息。
+
+![Run](img/run3.png)
+
+好了，恭喜您已经准备就绪，开始享受 AmzFinder 给您带来的便利吧。最后，您可以每天运行一次或者挂着客户端，程序会自动定时上报 review 信息。
 
 
