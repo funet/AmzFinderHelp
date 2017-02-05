@@ -4,7 +4,7 @@
 
 #### 注册账号
 
-打开 AmzFinder 注册账号链接: [http://amzfinder.com/signup](http://amzfinder.com/signup)
+打开 AmzFinder 注册账号链接: [http://www.amzfinder.com/signup](http://www.amzfinder.com/signup)
 
 ![注册界面](img/siginup.png)
 
@@ -32,7 +32,7 @@
 
 ![添加店铺表单](img/creat_store_form.png)
 
-更多帮助：[Seller ID，Access Key Id 和 Secret Key 从哪里得到？](http://link)
+更多帮助：[Merchant ID，AWS Access Key ID 和 Secret Key 从哪里得到？](other.md#merchant-idaws-access-key-id-secret-key)
 
 #### 安装客户端
 
