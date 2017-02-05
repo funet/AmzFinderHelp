@@ -84,7 +84,7 @@
 
 ![Install](img/install9.png)
 
-点击 “启动 Am在Finder” 启动客户端
+点击 “启动 AmzFinder” 启动客户端
 
 ![Install](img/install10.png)
 
