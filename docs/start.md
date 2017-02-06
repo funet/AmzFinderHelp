@@ -36,7 +36,7 @@
 
 ![添加店铺表单](img/creat_store_form.png)
 
-更多帮助：[Merchant ID，AWS Access Key ID 和 Secret Key 从哪里得到？](other.md#merchant-idaws-access-key-id-secret-key)
+更多帮助：[Seller ID，AWS Access Key ID 和 Secret Key 从哪里得到？](other.md#merchant-idaws-access-key-id-secret-key)
 
 #### 安装客户端
 
