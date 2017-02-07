@@ -1,0 +1,1 @@
+$('link').eq(0).remove();

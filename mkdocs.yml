@@ -2,8 +2,10 @@ site_name: AmzFinder
 theme: readthedocs
 repo_url: https://github.com/weelion/AmzFinderHelp
 extra_css:
-    - css/extra.css
-
+  - css/extra.css
+  - css/font.css
+extra_javascript:
+  - js/extra.js
 pages:
   - 帮助中心: index.md
   - 开始使用: start.md
