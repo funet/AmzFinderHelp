@@ -64,6 +64,10 @@
 
 ![Install](img/install2.png)
 
+开始下载环境包，稍后片刻，等待下载完成点击 “下一步” 按钮
+
+![Install](img/install2.1.png)
+
 开始解压环境包，待解压完成后，点击 “下一步” 按钮
 
 ![Install](img/install3.png)

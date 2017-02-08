@@ -2,7 +2,7 @@
 
   ***温馨提示：请在登录过Amazon 店铺的电脑进行此操作，以免发生关联。***
 
-  根据您要添加的 Amazon 店铺站点，打开一下相应的链接。 这里以美国（US）为例
+  根据您要添加的 Amazon 店铺站点，打开以下相应的链接。 这里以美国（US）为例
 
   美国（US）  ：[https://developer.amazonservices.com](https://developer.amazonservices.com)
 
