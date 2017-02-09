@@ -42,3 +42,9 @@
 
   ![access MWS](/img/api3.png)
 
+  ![access MWS](/img/api5.png)
+
+   如果同一个亚马逊账号，在同一区域（北美 或 欧洲 或 远东），不需要多次获取 'Seller ID'， 'AWS Access Key ID' 和 'Secret Key'，如 yourshop@hotmail.com 这个账号，在加拿大也启用，仅仅是如下图，勾选加拿大，输入加拿大店铺别名如 'CA-YourShop', 点击‘提交’按钮即可
+
+  ![access MWS](/img/api6.png)
+
